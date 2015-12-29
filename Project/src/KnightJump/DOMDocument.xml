@@ -1,0 +1,62 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="480" height="800" frameRate="30" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" vanishingPoint3DX="240" vanishingPoint3DY="400" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true">
+     <symbols>
+          <Include href="Ball.xml" itemID="5682611b-000001d3" lastModified="1451385651"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Ball" centerPoint3DX="228.95" centerPoint3DY="414">
+                                             <matrix>
+                                                  <Matrix tx="228.95" ty="414"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <persistentData>
+          <PD n="flash.fla.filepath" v="F:/Work/KnightJump/Project/src/KnightJump/KnightJump.xfl"/>
+          <PD n="swf.folder.path" v="F:/Work/KnightJump/Project/src/"/>
+          <PD n="com.air.agistri.runtimetype" v="embed"/>
+          <PD n="com.air.artemis.pubipa" v="false"/>
+          <PD n="com.air.agistri.hostip" v="Default"/>
+          <PD n="com.air.artemis.pubair" v="true"/>
+          <PD n="com.air.agistri.publishtype" v="release"/>
+          <PD n="flash.swf.basename" v="KnightJump"/>
+          <PD n="com.air.sdk.path" v="C:\Program Files (x86)\Adobe\Adobe Flash Builder 4.6\sdks\AIRSDK_Compiler18"/>
+          <PD n="com.air.artemis.airdest" v="KnightJump.apk"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="1545" publishTime="1451387659"/>
+          <PublishItem publishSize="1256" publishTime="1451387407"/>
+          <PublishItem publishSize="1439" publishTime="1451387098"/>
+          <PublishItem publishSize="1440" publishTime="1451387075"/>
+          <PublishItem publishSize="1391" publishTime="1451386980"/>
+          <PublishItem publishSize="1391" publishTime="1451386965"/>
+          <PublishItem publishSize="1389" publishTime="1451386935"/>
+          <PublishItem publishSize="1385" publishTime="1451386839"/>
+          <PublishItem publishSize="1387" publishTime="1451386817"/>
+          <PublishItem publishSize="1391" publishTime="1451386726"/>
+          <PublishItem publishSize="1390" publishTime="1451386716"/>
+          <PublishItem publishSize="1380" publishTime="1451386690"/>
+          <PublishItem publishSize="1365" publishTime="1451386564"/>
+          <PublishItem publishSize="1365" publishTime="1451386549"/>
+          <PublishItem publishSize="1337" publishTime="1451386501"/>
+          <PublishItem publishSize="1338" publishTime="1451386494"/>
+          <PublishItem publishSize="1197" publishTime="1451386204"/>
+          <PublishItem publishSize="1208" publishTime="1451386110"/>
+          <PublishItem publishSize="1195" publishTime="1451385920"/>
+          <PublishItem publishSize="685" publishTime="1451385716" publishDebug="true"/>
+     </publishHistory>
+</DOMDocument>
