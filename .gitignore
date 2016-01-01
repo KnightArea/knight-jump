@@ -1,4 +1,4 @@
 *.apk
 *.html
 *.swf
-Project/src/KnightJump/bin/SymDepend.cache
+*.cache
