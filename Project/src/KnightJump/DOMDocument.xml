@@ -9,9 +9,9 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="Ball" centerPoint3DX="228.95" centerPoint3DY="414">
+                                        <DOMSymbolInstance libraryItemName="Ball" centerPoint3DX="232.95" centerPoint3DY="794">
                                              <matrix>
-                                                  <Matrix tx="228.95" ty="414"/>
+                                                  <Matrix tx="232.95" ty="794"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point/>
@@ -31,32 +31,32 @@
           <PD n="com.air.artemis.pubipa" v="false"/>
           <PD n="com.air.agistri.hostip" v="Default"/>
           <PD n="com.air.artemis.pubair" v="true"/>
-          <PD n="com.air.agistri.publishtype" v="release"/>
           <PD n="flash.swf.basename" v="KnightJump"/>
+          <PD n="com.air.agistri.publishtype" v="release"/>
           <PD n="com.air.sdk.path" v="C:\Program Files (x86)\Adobe\Adobe Flash Builder 4.6\sdks\AIRSDK_Compiler18"/>
           <PD n="com.air.artemis.airdest" v="KnightJump.apk"/>
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
-          <PublishItem publishSize="1545" publishTime="1451387659"/>
-          <PublishItem publishSize="1256" publishTime="1451387407"/>
-          <PublishItem publishSize="1439" publishTime="1451387098"/>
-          <PublishItem publishSize="1440" publishTime="1451387075"/>
-          <PublishItem publishSize="1391" publishTime="1451386980"/>
-          <PublishItem publishSize="1391" publishTime="1451386965"/>
-          <PublishItem publishSize="1389" publishTime="1451386935"/>
-          <PublishItem publishSize="1385" publishTime="1451386839"/>
-          <PublishItem publishSize="1387" publishTime="1451386817"/>
-          <PublishItem publishSize="1391" publishTime="1451386726"/>
-          <PublishItem publishSize="1390" publishTime="1451386716"/>
-          <PublishItem publishSize="1380" publishTime="1451386690"/>
-          <PublishItem publishSize="1365" publishTime="1451386564"/>
-          <PublishItem publishSize="1365" publishTime="1451386549"/>
-          <PublishItem publishSize="1337" publishTime="1451386501"/>
-          <PublishItem publishSize="1338" publishTime="1451386494"/>
-          <PublishItem publishSize="1197" publishTime="1451386204"/>
-          <PublishItem publishSize="1208" publishTime="1451386110"/>
-          <PublishItem publishSize="1195" publishTime="1451385920"/>
-          <PublishItem publishSize="685" publishTime="1451385716" publishDebug="true"/>
+          <PublishItem publishSize="1579" publishTime="1451636965"/>
+          <PublishItem publishSize="1562" publishTime="1451636932"/>
+          <PublishItem publishSize="1564" publishTime="1451636761"/>
+          <PublishItem publishSize="1546" publishTime="1451636717"/>
+          <PublishItem publishSize="1543" publishTime="1451636716" publishDebug="true"/>
+          <PublishItem publishSize="1541" publishTime="1451636703"/>
+          <PublishItem publishSize="1539" publishTime="1451636702" publishDebug="true"/>
+          <PublishItem publishSize="711" publishTime="1451636686" publishDebug="true"/>
+          <PublishItem publishSize="714" publishTime="1451636676" publishDebug="true"/>
+          <PublishItem publishSize="1548" publishTime="1451636651"/>
+          <PublishItem publishSize="1547" publishTime="1451636650" publishDebug="true"/>
+          <PublishItem publishSize="1535" publishTime="1451636642" publishDebug="true"/>
+          <PublishItem publishSize="712" publishTime="1451636609" publishDebug="true"/>
+          <PublishItem publishSize="709" publishTime="1451636601" publishDebug="true"/>
+          <PublishItem publishSize="705" publishTime="1451636579" publishDebug="true"/>
+          <PublishItem publishSize="705" publishTime="1451636576" publishDebug="true"/>
+          <PublishItem publishSize="705" publishTime="1451636522" publishDebug="true"/>
+          <PublishItem publishSize="1586" publishTime="1451636514" publishDebug="true"/>
+          <PublishItem publishSize="702" publishTime="1451636472" publishDebug="true"/>
+          <PublishItem publishSize="1585" publishTime="1451636446" publishDebug="true"/>
      </publishHistory>
 </DOMDocument>
