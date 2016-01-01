@@ -15,6 +15,8 @@ package
 			for(var i:int = 0 ; i<1 ; i++)
 			{
 				ball = new MyBall(stage.stageWidth,stage.stageHeight);
+				ball.x = stage.stageWidth/2;
+				ball.y = 100 ;
 				this.addChild(ball);
 			}
 		}
