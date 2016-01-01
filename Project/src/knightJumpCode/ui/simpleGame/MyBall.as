@@ -7,27 +7,38 @@ package knightJumpCode.ui.simpleGame
 	
 	public class MyBall extends MovieClip
 	{
-		private var speed:Number ;
+		private var stageWidth:Number,
+					stageHeigh:Number;
+					
+		private const graviti:Number = 0.5;
 		
-		public function MyBall(X0:Number=0,Y0:Number=0)
+		private var ySpeed:Number ;
+		
+		public function MyBall(StageWidth:Number=0,StageHeigh:Number=0)
 		{
 			super();
 			
-			this.x = X0 ;
-			this.y = Y0 ;
+			stageWidth = StageWidth ;
+			stageHeigh = StageHeigh ;
 			
+			ySpeed = 0 ;
 			
-			speed = Math.floor(Math.random()*10)+2;
 			
 			this.addEventListener(Event.ENTER_FRAME,animate);
-			this.addEventListener(TransformGestureEvent.GESTURE_PAN,touched);
 		}
 		
 		private function animate(event:Event):void
 		{
-			//this.x=(this.parent.mouseX-this.x);
-			this.y+=(this.parent.mouseY-this.y)/speed;
-			this.x+=(this.parent.mouseX-this.x)/speed;
+			trace(ySpeed);
+			ySpeed+=graviti;
+			
+			this.y+=ySpeed;
+			
+			if(this.y>stageHeigh)
+			{
+				this.y = stageHeigh ;
+				ySpeed = -1*ySpeed;
+			}
 		}
 		
 		protected function touched(event:TransformGestureEvent):void

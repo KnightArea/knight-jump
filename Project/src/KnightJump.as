@@ -14,7 +14,7 @@ package
 			
 			for(var i:int = 0 ; i<1 ; i++)
 			{
-				ball = new MyBall(Math.random()*stage.stageWidth,Math.random()*stage.stageHeight);
+				ball = new MyBall(stage.stageWidth,stage.stageHeight);
 				this.addChild(ball);
 			}
 		}
